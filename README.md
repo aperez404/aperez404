@@ -18,12 +18,12 @@ I’ve interned at **PwC** in healthcare tech consulting, conducted AI market an
 ---
 
 ### 🚀 Key Projects
-- **DooleyHelpz | AI-Powered Course Planning Tool** (Emory CS 370)
-→ Built a student-focused academic planning tool that recommends schedules based on professor ratings, degree requirements, GERs, prerequisites, and user preferences; developed an ML-based recommendation component and supported integration of course/professor data.  
+- **DooleyHelpz | AI-Powered Course Planning Tool** (Emory CS 370)  
+  → Built a student-focused academic planning tool that recommends schedules based on professor ratings, degree requirements, GERs, prerequisites, and user preferences; developed an ML-based recommendation component and supported integration of course/professor data.  
   _Tools: Python, MongoDB, , HTML/CSS/JS_
 
-- **Verizon AI Studio | Break Through Tech** (Project: Object Detection / Computer Vision)
-→ Developed a computer vision pipeline to detect and classify objects in images for real-world infrastructure monitoring; supported model training/evaluation and communicated findings through project documentation and demos.  
+- **Verizon AI Studio | Break Through Tech** (Project: Object Detection / Computer Vision)  
+  → Developed a computer vision pipeline to detect and classify objects in images for real-world infrastructure monitoring; supported model training/evaluation and communicated findings through project documentation and demos.  
   _Tools: Python, Computer Vision, YOLOv8, Pandas, Jupyter_
 
 - **Wage Gap ML Project** (Cornell Machine Learning Course 2025)  
